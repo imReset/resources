@@ -13,7 +13,7 @@ const Hero = (props) => (
           My School Resources
         </SectionTitle>
         <SectionText>
-        I made this website as a landing page for all the resources I use for school. These resources improve my productivity and help save time.
+        I made this website as a landing page for all the resources I use on a daily basis for school. These resources improve my productivity and help save time.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
