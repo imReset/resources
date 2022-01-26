@@ -14,28 +14,51 @@ export const projects = [
     image: '/images/2.png',
     tags: ['Bibliography', 'English'],
     source: 'https://www.mybib.com/',
-    visit: 'https://google.com',
+    // Replace this later
+    // visit: 'https://google.com',
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Quillbot',
+    description: "Quillbot's paraphrasing tool helps millions of people rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI. Your words matter, and our paraphrasing tool is designed to ensure you use the right ones.",
+      image: '/images/3.png',
+      tags: ['Plagiarism', 'English'],
+      source: 'https://quillbot.com/',
+    // Replace this later
+    // visit: 'https://google.com',
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
+    title: 'DeepL Translate',
+    description: "Try out the world's best machine translation. Translate now. Linguee. The largest database of human translations. Search now. Neural networks expand human possibility, overcome language barriers, and bring cultures closer together.",
+    image: '/images/4.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    //Replace this later
+    // visit: 'https://google.com',
     id: 3,
   },
-  // Add at least two more nodes
+  {
+    title: 'Plagiarism Checker',
+    description: "With deep search, this tool will check for plagiarism to make sure you get an in depth similarity check.Our algorithms dive deep into the world of the internet and search against a vast library of sources to fetch you the most accurate and thorough plagiarism test results. ",
+    image: '/images/5.png',
+    tags: ['React', 'ChatEngine', 'Firebase'],
+    source: 'https://google.com',
+    // Replace this later
+    // visit: 'https://google.com',
+    id: 4,
+  },
+  {
+    title: 'Background Remover',
+    description: "Remove backgrounds 100% automatically in 5 seconds with zero clicks",
+    image: '/images/6.png',
+    tags: ['React', 'ChatEngine', 'Firebase'],
+    source: 'https://google.com',
+    // Replace this later
+    // visit: 'https://google.com',
+    id: 5,
+  },
+  // To add more nodes, copy the same format
 ];
 
 export const TimeLineData = [
