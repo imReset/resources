@@ -9,11 +9,11 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'MyBib',
+    description:"MyBib is a free bibliography and citation generator that makes accurate citations for you to copy straight into your academic assignments and papers. If you're a student, academic, or teacher, and you're tired of the other bibliography and citation tools out there, then you're going to love MyBib.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
+    tags: ['Bibliography', 'English'],
+    source: 'https://www.mybib.com/',
     visit: 'https://google.com',
     id: 1,
   },
@@ -35,6 +35,7 @@ export const projects = [
     visit: 'https://google.com',
     id: 3,
   },
+  // Add at least two more nodes
 ];
 
 export const TimeLineData = [
