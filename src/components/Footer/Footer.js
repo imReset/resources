@@ -13,7 +13,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Visit the old version</LinkTitle>
-          <LinkItem href="https://schoolresources.netlify.app/">Here</LinkItem>
+          <LinkItem href="https://schoolresources.netlify.app/" target="_blank">Here</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -27,13 +27,13 @@ const Footer = () => {
           <Slogan>Copyright &copy; 2022 Reset</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/imReset">
+          <SocialIcons href="https://github.com/imReset" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://open.spotify.com/user/nvgqxbuhezr20knmu7pupbgee">
+          <SocialIcons href="https://open.spotify.com/user/nvgqxbuhezr20knmu7pupbgee" target="_blank">
             <FaSpotify size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://discord.com/users/511326053533351963">
+          <SocialIcons href="https://discord.com/users/511326053533351963" target="_blank">
             <SiDiscord size="3rem"/>
           </SocialIcons>
         </SocialContainer>

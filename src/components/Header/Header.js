@@ -19,7 +19,7 @@ const Header = () =>  (
     <Div2>
       <li>
         <Link href="#projects">
-          <NavLink>Projects</NavLink>
+          <NavLink>Resources</NavLink>
         </Link>
       </li>
       <li>
@@ -34,13 +34,13 @@ const Header = () =>  (
       </li>        
     </Div2>
       <Div3>
-        <SocialIcons href="https://github.com/imReset">
+        <SocialIcons href="https://github.com/imReset" target="_blank">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://open.spotify.com/user/nvgqxbuhezr20knmu7pupbgee">
+        <SocialIcons href="https://open.spotify.com/user/nvgqxbuhezr20knmu7pupbgee" target="_blank"> 
           <FaSpotify size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://discord.com/users/511326053533351963">
+        <SocialIcons href="https://discord.com/users/511326053533351963" target="_blank">
           <SiDiscord size="3rem"/>
         </SocialIcons>
       </Div3>
