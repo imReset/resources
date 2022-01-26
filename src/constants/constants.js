@@ -32,8 +32,8 @@ export const projects = [
     title: 'DeepL Translate',
     description: "Try out the world's best machine translation. Translate now. Linguee. The largest database of human translations. Search now. Neural networks expand human possibility, overcome language barriers, and bring cultures closer together.",
     image: '/images/4.png',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
+    tags: ['Translate', ],
+    source: 'https://www.deepl.com/translator',
     //Replace this later
     // visit: 'https://google.com',
     id: 3,
@@ -42,8 +42,8 @@ export const projects = [
     title: 'Plagiarism Checker',
     description: "With deep search, this tool will check for plagiarism to make sure you get an in depth similarity check.Our algorithms dive deep into the world of the internet and search against a vast library of sources to fetch you the most accurate and thorough plagiarism test results. ",
     image: '/images/5.png',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
+    tags: ['English', 'Artificial Intelligence'],
+    source: 'https://www.plagiarismchecker.co/',
     // Replace this later
     // visit: 'https://google.com',
     id: 4,
@@ -52,8 +52,8 @@ export const projects = [
     title: 'Background Remover',
     description: "Remove backgrounds 100% automatically in 5 seconds with zero clicks",
     image: '/images/6.png',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
+    tags: ['Artificial Intelligence', 'Creativity'],
+    source: 'https://www.remove.bg/',
     // Replace this later
     // visit: 'https://google.com',
     id: 5,
