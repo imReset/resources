@@ -23,6 +23,19 @@ export const ImageContainer = styled.div`
   }
 `
 
+// Navigation Links
+export const NavLink = styled.a`
+  font-size: 2rem;
+  line-height: 32px;
+  color: rgba (255, 255, 255, 0.60);
+  transition: 0.4s ease;
+  &:hover {
+    color: #fff;
+    opacity: 1;
+    cursor: pointer;
+  }
+`;
+
 export const MainImage = styled.img`
   width: 100%;
 `

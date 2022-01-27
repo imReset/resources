@@ -2,6 +2,8 @@ import React from 'react';
 import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import { NavLink } from './TechnologiesStyles';
+
 
 const Technologies = () =>  (
   <Section id="tech">
@@ -16,11 +18,13 @@ const Technologies = () =>  (
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle><a href="https://google.ca" target="_blank">Update</a></ListTitle>
+          <NavLink>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+          Lorem ipsum dolor sit amet <br />
+          consectetur adipiscing elit
           </ListParagraph>
+          </NavLink>
         </ListContainer>
       </ListItem>
       <ListItem>
@@ -28,10 +32,10 @@ const Technologies = () =>  (
           <DiFirebase size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+        <ListTitle><a href="https://google.ca" target="_blank">Update</a></ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            sed do eiusmod <br />
+            tempor incididunt ut labore
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -40,10 +44,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+        <ListTitle><a href="https://google.ca" target="_blank">Update</a></ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+          Lorem ipsum dolor sit amet <br />
+          consectetur adipiscing elit
           </ListParagraph>
         </ListContainer>
       </ListItem>
