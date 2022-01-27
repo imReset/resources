@@ -27,7 +27,7 @@ const Footer = () => {
           <Slogan>Copyright &copy; 2022 Reset</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/imReset" target="_blank">
+        <iframe src="https://ghbtns.com/github-btn.html?user=imReset&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>           <SocialIcons href="https://github.com/imReset" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://open.spotify.com/user/nvgqxbuhezr20knmu7pupbgee" target="_blank">
