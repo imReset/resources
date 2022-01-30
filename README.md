@@ -1,2 +1,3 @@
 ## Resources
-[https://www.schoolresources.tech/](url)
+**Visit the website!**
+[schoolresources.tech](https://www.schoolresources.tech/){:target="_blank"}
