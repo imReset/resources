@@ -34,7 +34,7 @@ const Header = () =>  (
       </li>        
     </Div2>
       <Div3>
-        <SocialIcons href="https://github.com/imReset" target="_blank">
+        <SocialIcons href="https://github.com/imReset/resources" target="_blank">
           <AiFillGithub size="3rem" />
         </SocialIcons>
         <SocialIcons href="https://open.spotify.com/user/nvgqxbuhezr20knmu7pupbgee" target="_blank"> 
