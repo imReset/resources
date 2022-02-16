@@ -31,11 +31,8 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-GB'>
         <Head>
-      <script
-  async
-  src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_GOOGLE_ADSENSE}`}
-  crossOrigin="anonymous"
-/>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9488795615332524"
+     crossorigin="anonymous"></script>
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
         </Head>
         <body>
